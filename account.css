@@ -1,0 +1,17 @@
+body{
+	background:#7d7dc7;
+}
+.from{
+	font-family:arial;
+}
+.from {
+    color: white;
+    margin-left: 49px;
+	margin-top:50px;
+}
+.from input{
+	padding:10px;
+}
+.from select{
+	padding:10px;
+}
